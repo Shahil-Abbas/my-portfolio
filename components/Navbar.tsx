@@ -113,7 +113,7 @@ export default function Navbar() {
             {/* Socials */}
             <div className="flex items-center gap-4 text-gray-400">
               <a
-                href="https://github.com/shahil-abbas"
+                href="https://github.com/Shahil-Abbas"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-white transition-colors"
