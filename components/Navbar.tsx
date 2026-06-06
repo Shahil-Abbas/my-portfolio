@@ -113,7 +113,7 @@ export default function Navbar() {
             {/* Socials */}
             <div className="flex items-center gap-4 text-gray-400">
               <a
-                href="https://github.com/Shahil-Abbas"
+                href="https://github.com/shahil-abbas"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-white transition-colors"
@@ -131,7 +131,7 @@ export default function Navbar() {
                 <Linkedin size={18} />
               </a>
               <a
-                href="mailto:shahil.abbas.work@gmail.com"
+                href="mailto:shahilabbas801@gmail.com"
                 className="hover:text-white transition-colors"
                 aria-label="Email"
               >
@@ -181,7 +181,7 @@ export default function Navbar() {
 
               <div className="flex gap-6 text-gray-400">
                 <a
-                  href="https://github.com/shahilabbas"
+                  href="https://github.com/shahil-abbas"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
@@ -190,7 +190,7 @@ export default function Navbar() {
                   <Github size={24} />
                 </a>
                 <a
-                  href="https://linkedin.com/in/shahil-abbas"
+                  href="https://linkedin.com/in/shahil-abbas-730672357"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
@@ -199,7 +199,7 @@ export default function Navbar() {
                   <Linkedin size={24} />
                 </a>
                 <a
-                  href="mailto:shahil.abbas.work@gmail.com"
+                  href="mailto:shahilabbas801@gmail.com"
                   className="hover:text-white transition-colors"
                   aria-label="Email"
                 >
