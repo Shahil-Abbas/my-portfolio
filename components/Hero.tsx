@@ -14,16 +14,6 @@ export default function Hero() {
       <div className="max-w-5xl mx-auto px-6 grid md:grid-cols-12 gap-12 items-center relative z-10 w-full">
         {/* Left Side: Text Details */}
         <div className="md:col-span-7 text-left space-y-6 flex flex-col justify-center order-2 md:order-1">
-          {/* Welcome Badge */}
-          <motion.div
-            initial={{ opacity: 0, y: 15 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
-            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full glass-panel text-xs text-cyber-cyan font-mono w-fit"
-          >
-            <Terminal size={14} className="animate-pulse" />
-            <span>sys.status = &quot;active&quot;</span>
-          </motion.div>
 
           {/* Name & Headline */}
           <div className="space-y-3">
